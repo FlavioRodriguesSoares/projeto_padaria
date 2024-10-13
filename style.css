@@ -1,0 +1,66 @@
+body{
+	background-color: #f4f0e5 ;
+	font-family: Tahoma;
+}
+
+
+.secao{
+	width: 700px;
+	margin: 20px auto;
+	text-align: center;
+}
+.imagem-logo{
+	width: 200px;
+}
+
+a{
+	margin: 0 10px;
+	color: #b0a492;
+	
+}
+h1{
+	font-size: 28px;
+	padding-top: 20px;
+	padding-bottom: 0;
+	border-top: 2px solid #e8d7bd;
+
+}
+
+h2{
+	color: #e2b78d;
+	font-weight: normal;	
+}
+.produto-padaria{
+	width: 700px;
+}
+
+.secao-destaque{
+	background-color:#de8e37 ;
+	color: #f1e5d5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+.secao-destaque h3{
+	font-size: 24px;
+}
+
+.secao-destaque h4{
+	font-size: 20px;
+}
+
+.secao-destaque p{
+	width: 500px;
+	margin: 0 auto;
+	line-height: 30px;
+	
+
+}
+
+.secao-destaque .paes-bolo{
+	width: 400px;
+}
+span{
+	font-weight: bold;
+}
